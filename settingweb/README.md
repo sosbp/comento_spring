@@ -16,4 +16,4 @@
 
 4. Github 버전관리 환경 셋팅
 	- 프로젝트 버전관리 목적의 Repository 생성, 프로젝트 커밋
-	- [참고 블로그](https://velog.io/@bonni/Github-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4Eclipse%EC%99%80-%EC%97%B0%EB%8F%99%EC%8B%9C-master-branch%EB%A5%BC-main%EC%9C%BC%EB%A1%9C-%EB%B3%80%EA%B2%BD%ED%95%B4%EC%84%9C-push%ED%95%98)
+	- [참고 블로그](https://velog.io/@bonni/Github-이클립스Eclipse와-연동시-master-branch를-main으로-변경해서-push하기)
